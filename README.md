@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Image Customiser
 
-## Getting Started
+Image_Customiser is a versatile web application designed to provide users with various image customization options. Whether you're a designer, content creator, or casual user, this tool helps you adjust images to suit your personal or project needs.
 
-First, run the development server:
+Live Demo: Deployed on Vercel
+GitHub Repository: Image_Customiser
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Features
+Image Cropping: Easily crop images to focus on specific areas.
+Resizing Options: Adjust the dimensions of images while maintaining quality.
+Filter Application: Enhance images with filters to achieve the desired aesthetic.
+Custom Backgrounds: Change or blur backgrounds to create unique compositions.
+Image Exporting: Download customized images in multiple formats.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Tech Stack
+The Image_Customiser project is built using:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Frontend: React, TailwindCSS
+Backend: Node.js, Express
+Authentication: Clerk
+UI Components: Shadcn
+Installation
+Follow these steps to set up the project locally:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Clone the repository:
 
-## Learn More
+bash
+Copy code
+git clone https://github.com/shoaib-1457/Image_Customiser.git
+cd Image_Customiser
+Install dependencies:
 
-To learn more about Next.js, take a look at the following resources:
+bash
+Copy code
+npm install
+Set up environment variables as required for Clerk and other services.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Run the project:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+bash
+Copy code
+npm start
+Open http://localhost:3000 to view it in the browser.
 
-## Deploy on Vercel
+Screenshots
+Home Page
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Crop Image Feature
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Filter Options
+
+Contributing
+We welcome contributions to enhance the functionality and usability of Image_Customiser. Follow these steps to contribute:
+
+Fork the repository.
+Create a new branch for your feature (git checkout -b feature-branch).
+Commit your changes (git commit -m "Add feature").
+Push to the branch (git push origin feature-branch).
+Open a pull request.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
