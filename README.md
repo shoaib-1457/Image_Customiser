@@ -1,10 +1,8 @@
 # Image Customiser
 
-![Banner](./images/banner.png)  
 
 **Image_Customiser** is a versatile web application designed to provide users with various image customization options. Whether you're a designer, content creator, or casual user, this tool helps you adjust images to suit your personal or project needs. 
 
-> **Live Demo:** [Deployed on Vercel](https://your-deployment-link.com)  
 > **GitHub Repository:** [Image_Customiser](https://github.com/shoaib-1457/Image_Customiser)
 
 ## Features
@@ -15,7 +13,7 @@
 - **Custom Backgrounds**: Change or blur backgrounds to create unique compositions.
 - **Image Exporting**: Download customized images in multiple formats.
 
-![Features](./images/features.png)
+![Features](https://github.com/shoaib-1457/Image_Customiser/blob/main/Images/Screenshot%202024-11-02%20182321.png)
 
 ## Tech Stack
 
@@ -56,13 +54,13 @@ Follow these steps to set up the project locally:
 ## Screenshots
 
 ### Home Page
-![Home Page](./images/home.png)
+![Home Page](https://github.com/shoaib-1457/Image_Customiser/blob/main/Images/Screenshot%202024-11-02%20182221.png)
 
 ### Crop Image Feature
-![Crop Feature](./images/crop.png)
+![Crop Feature](https://github.com/shoaib-1457/Image_Customiser/blob/main/Images/Screenshot%202024-11-02%20182234.png)
 
 ### Filter Options
-![Filters](./images/filters.png)
+![Filters](https://github.com/shoaib-1457/Image_Customiser/blob/main/Images/Screenshot%202024-11-02%20182321.png)
 
 ## Contributing
 
